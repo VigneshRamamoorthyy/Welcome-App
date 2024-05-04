@@ -1,0 +1,31 @@
+.bg-container {
+  background-color: #1e293b;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  color: #f0bb03;
+  font-family: Bree serif;
+  font-size: 58px;
+  font-weight: bold;
+}
+
+.description {
+  color: #ffffff;
+  font-family: Bree serif;
+  font-size: 48;
+  font-weight: 500;
+}
+
+.subscribe-btn {
+  border-width: 0px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  font-family: Bree serif;
+  height: 40px;
+  width: 100px;
+}
